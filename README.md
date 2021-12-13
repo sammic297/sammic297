@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sammic297
-- 👀 I’m interested in developing ideas
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on php projects
+- 👋 Hi, I am @sammic297
+- 👀 I am interested in developing ideas
+- 🌱 I am currently learning Web3
+- 💞️ I am looking to collaborate on web projects across languages
 - 📫 How to reach me odey@micalabar.com
 
 <!---
