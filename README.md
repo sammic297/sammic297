@@ -1,4 +1,4 @@
-- 👋 Hi, I am @sammic297
+- 👋 Hi, I am Odey
 - 👀 I am interested in developing ideas
 - 🌱 I am currently learning Web3
 - 💞️ I am looking to collaborate on web projects across languages
