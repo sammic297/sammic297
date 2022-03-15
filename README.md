@@ -1,5 +1,5 @@
 - 👋 Hi, I am Odey
-- 👀 I am interested in developing ideas
+- 👀 I am interested in developing products
 - 🌱 I am currently learning Web3
 - 💞️ I am looking to collaborate on web projects across languages
 - 📫 How to reach me odey@micalabar.com
